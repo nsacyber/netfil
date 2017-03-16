@@ -57,7 +57,7 @@ For `iobyte`, `ibyte`, and `obyte`, a zero value represents unmetered/unlimited 
 
 ## Menu Bar / GUI Application
 
-You can use the menu bar application to control the KEXT. A green icon with a dot means the filter is "on", a red icon with a line means the filter is "off", a gray icon with a radar-like symobl means the KEXT is probably not loaded or there is an error. 
+You can use the menu bar application to control the KEXT. A green icon with a dot means the filter is "on", a red icon with a line means the filter is "off", a gray icon with a radar-like symobl means the KEXT is probably not loaded or there is an error. Icon are from Oxygen Team.
 
 ## Limitations
 
@@ -87,6 +87,7 @@ You can use the menu bar application to control the KEXT. A green icon with a do
 * mac policies
 ** https://www.synack.com/2015/11/17/monitoring-process-creation-via-the-kernel-part-i/
 ** https://developer.apple.com/reference/kernel/mpo_ifnet_label_associate_t?language=objc
+* Icons from the Oxygen Icon pack under the GNU Lesser General Public License
 
 ## License
 See [LICENSE](./LICENSE.md).
