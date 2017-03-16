@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:./netfil/menubar/menubar.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:./netfil/kext/kext.xcodeproj">
+   </FileRef>
+</Workspace>
